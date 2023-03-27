@@ -19,10 +19,10 @@ export default function Layout({ children }) {
     const darkMode = localStorage.getItem('theme') === 'dark';
     const lightMode = localStorage.getItem('theme') === 'light';
 
-    if (darkMode) {
-      document.documentElement.classList.add('dark');
-    } else if (lightMode) {
+    if (lightMode) {
       document.documentElement.classList.remove('dark');
+    } else {
+      document.documentElement.classList.add('dark');
     }
     return;
   };
