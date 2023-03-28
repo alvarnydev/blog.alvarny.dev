@@ -6,6 +6,7 @@ class MyDocument extends Document {
     return (
       <Html lang="en" className="theme-compiled">
         <Head />
+        <link rel="shortcut icon" href="/static/favicon.ico" />
         <body
           className={`antialiased text-lg bg-white dark:bg-gray-900 dark:text-white leading-base`}
         >
