@@ -1,4 +1,4 @@
-#1 Alvarny's Blog
+# Alvarny's Blog
 
 This repo hosts the code for a blog over at <a href="https://blog.alvarny.com" target="_blank">https://blog.alvarny.com</a>.
 
@@ -8,6 +8,12 @@ This repo hosts the code for a blog over at <a href="https://blog.alvarny.com" t
   - A1
   - A2
 - B
+
+## A
+
+### A1
+
+### A2
 
 ## B
 
