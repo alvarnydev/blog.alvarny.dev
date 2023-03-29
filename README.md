@@ -1,3 +1,6 @@
+#1 Alvarny's Blog
+
+This repo hosts the code for a blog over at <a href="https://blog.alvarny.com" target="_blank">https://blog.alvarny.com</a>.
 
 ## Table of Contents:
 
@@ -6,7 +9,7 @@
   - A2
 - B
 
-
+## B
 
 This blog is based on the 'Netlify [Next.js Blog Template](https://github.com/netlify-templates/nextjs-blog-theme) designed by Bejamas
 
