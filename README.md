@@ -2,7 +2,7 @@
 
 This repo hosts the code for a blog over at <a href="https://blog.alvarny.com" target="_blank">https://blog.alvarny.com</a>.
 
-## Fork
+## Credit
 
 This blog is a fork of Netlify's [Next.js Blog Template](https://github.com/netlify-templates/nextjs-blog-theme) designed by Bejamas.
 
